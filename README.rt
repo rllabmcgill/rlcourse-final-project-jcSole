@@ -1,0 +1,16 @@
+We did 2 types of experiments and the files are organized as follows : 
+
+The first python notebook 'EURUSD_experiment' contains the experiments with the neural networks. 
+
+The other notebooks: 
+ 	- finance_normalizedData_minmax.ipynb
+ 	- finance_normalizedData_std.ipynb
+Contains the experiments for the comparison of ETD, TD and supervised learning. 
+
+The python files : 
+	- ETDlearning
+	- features_finance
+	- TD learning
+	- parameters_finance
+	- supervisedLearning
+Contains all the functions used in the second batch of experiments so that the notebooks were not too full. 
